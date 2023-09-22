@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('temp-img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .converter {
+    margin: 20px 0;
+  }
+  
+  input[type="number"] {
+    padding: 5px;
+    width: 150px;
+  }
+  
+  select {
+    padding: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #524a4a;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+  }
